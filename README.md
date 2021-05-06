@@ -10,7 +10,7 @@ My name is Diana Flores and I'm a software engineer at Truist Bank. I'm from the
 <hr>
 
   
-📧 You can E-Mail me at : [@DianaBFLores@outlook.com]
+📧 You can E-Mail me at : DianaBFLores@outlook.com
 
 <hr> 
 
