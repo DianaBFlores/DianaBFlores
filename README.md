@@ -9,13 +9,11 @@ My name is Diana Flores and I am an engineer at Truist Bank. I'm from the sunshi
 <hr>
 
   
-- 📫 you can email me at : [@DianaBFLores@outlook.com]("https://outlook.live.com/mail/0/sentitems");
+📧 You can E-Mail me at : [@DianaBFLores@outlook.com]
+
+<hr> 
 
 
-
-
-
-📈 My GitHub Stats
 
 <p align="center"> <img src="https://github.com/DianaBFlores" />
 
