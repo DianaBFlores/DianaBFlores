@@ -1,4 +1,5 @@
-### 👋🏼 Hey there  and welcome to my Github! 👋🏼 
+![Capture](https://user-images.githubusercontent.com/64798817/117346639-0351d280-ae76-11eb-9909-6e5f054222c7.PNG)
+
 
 <hr>
 <br />
@@ -15,10 +16,9 @@ My name is Diana Flores and I am an engineer at Truist Bank. I'm from the sunshi
 
 
 
-<img src="/![PXL_20210401_214509855 MP 948](https://user-images.githubusercontent.com/64798817/117342120-d9e27800-ae70-11eb-9403-0cc01ec50f3c.jpg)
-">
 
-![PXL_20210401_214509855 MP 948](https://user-images.githubusercontent.com/64798817/117343494-59bd1200-ae72-11eb-9db0-6519bd9513e1.jpg)
+
+
 
 
 <!--
