@@ -16,13 +16,13 @@
 
 <br />
 
-My name is Diana Flores and I am an engineer at Truist Bank. im from south Florida and currently living in Cha
+My name is Diana Flores and I am an engineer at Truist Bank. I'm from the sunshine state 🌴 and currently living in Charlotte NC. 
 
 
 
 
   
-- 📫 Email me at : [@DianaBFLores@outlook.com]("https://outlook.live.com/mail/0/sentitems");
+- 📫 you can email me at : [@DianaBFLores@outlook.com]("https://outlook.live.com/mail/0/sentitems");
 
 
 
