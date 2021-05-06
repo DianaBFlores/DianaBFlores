@@ -4,7 +4,7 @@
 <hr>
 <br />
 
-My name is Diana Flores and I am an engineer at Truist Bank. I'm from the sunshine state 🌴 and currently living in Charlotte NC. 
+My name is Diana Flores and I'm a software engineer at Truist Bank. I'm from the sunshine state 🌴 and currently living in Charlotte NC. 
 
 
 <hr>
