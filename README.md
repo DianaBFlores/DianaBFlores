@@ -18,7 +18,7 @@ My name is Diana Flores and I'm a software engineer in training at Truist Bank.
 <hr>
 <h2> Contact me </h2>
 
-<a href="https://outlook.live.com" target="_blank"><div class="img-item" data-src="https://image.flaticon.com/icons/svg/281/281769.svg" data-sub-html=".caption"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40" class="img-shadow img-margin ls-is-cached lazyloaded"> <br> 
+<a href="DianaBFLores@outlook.com" target="_blank"><div class="img-item" data-src="https://image.flaticon.com/icons/svg/281/281769.svg" data-sub-html=".caption"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40" class="img-shadow img-margin ls-is-cached lazyloaded"> <br> 
   DianaBFLores@outlook.com
 
 
